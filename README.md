@@ -61,7 +61,7 @@ Septembre 1997 -Juin 2001 – Technicien d’Usinage
 
 ### Linkedin
 
-Rendez-vous sur mon [Linkedin](https://fr.linkedin.com/in/didier-cyprien-67074410a) pour tout _decouvrir_ de moi !
+Rendez-vous sur mon [Linkedin](https://fr.linkedin.com/in/didier-cyprien-67074410a) pour tout _découvrir_ de moi !
 
 
 <!--
