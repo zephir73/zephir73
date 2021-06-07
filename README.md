@@ -21,6 +21,7 @@ Bonjour, je suis feru d'informatique, de jeux video, de programmation et d'impri
 <img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
 <img alt="TOR" src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" />
 <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### Expérience professionnelle
 
