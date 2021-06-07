@@ -2,7 +2,7 @@
 ![ma_photo.jpg>](https://github.com/zephir73/zephir73/blob/main/ma_photo.jpeg)
 
 ### Présentation
-Bonjour,je suis ferus d'informatique, de jeux video de programmation et d'ipmrimente 3d.
+Bonjour, je suis feru d'informatique, de jeux video, de programmation et d'imprimante 3d.
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -23,7 +23,6 @@ Bonjour,je suis ferus d'informatique, de jeux video de programmation et d'ipmrim
 <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
 
 ### Expérience professionnelle
-
 
 Janvier à juillet 2020 inclus | Technicien de logiciel (Intérim) 
   * FIM MEDICAL | Villeurbanne
