@@ -45,7 +45,7 @@ Septembre 1999 - 2015 | Ouvrier Spécialisé
 ### Formation
 Octobre 2016- juillet 2017 – Développeur Logiciel
   * INSTIC 69008 LYON
-    * Attestation de formation : langage Web : HTMLS/CSS –
+    * Attestation de formation : langage Web : HTMLS/CSS
     * JavaScript - Jquery-PHP initiation - Test recettage - C#.net – Java JEE – Androïd - SQL - Wordpress
  
  Sept. 2015 – Juillet 2016 - Maintenicien micro-informatique
